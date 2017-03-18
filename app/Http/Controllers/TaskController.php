@@ -201,5 +201,9 @@ class TaskController extends Controller
        return view('etra_info',compact('jobs','majors','majors_lvl','art_fields','sport_fields'));
     	       
     }
+    public function add_idea()
+    {
+      return view('mg_idea');
+    }
     
 }

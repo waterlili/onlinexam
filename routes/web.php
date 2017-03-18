@@ -39,6 +39,6 @@ Route::get('/home', 'HomeController@index');
 Route::get('test', 'TestController@index');
 
 Auth::routes();
-
+Route::get('ideas/mg_idea','TaskController@add_idea');
 Route::get('/home', 'HomeController@index');
 Route::get('register/verify/{token}', 'Auth\RegisterController@verify');
