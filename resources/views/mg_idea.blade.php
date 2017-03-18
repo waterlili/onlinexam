@@ -40,20 +40,6 @@
     </section>
 @endsection
 @section('content')
-<!-- <div class="row">
-  <div class="col-md-3 ideas-sty"><div class="quote-container">
-  <i class="pin"></i>
-  <blockquote class="note yellow">
-    We can't solve problems by using the same kind of thinking we used when we created them.
-    <cite class="author">Albert Einstein</cite>
-  </blockquote>
-</div>  </div>
-  <div class="col-md-3 ideas-sty">dfgd</div>
-  <div class="col-md-3 ideas-sty">dfgd</div>
-  
-
-           
-
 </div> -->
 <div class="row">
    
